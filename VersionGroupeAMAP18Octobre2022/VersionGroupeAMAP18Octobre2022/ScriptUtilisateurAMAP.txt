@@ -1,0 +1,3 @@
+# Privilèges pour `user_amap`@`localhost`
+
+GRANT SELECT, INSERT, UPDATE, DELETE, FILE ON *.* TO `user_amap`@`localhost` IDENTIFIED BY PASSWORD '*4F6A47D305605C8D98388F6C40D4A466FBEA7908';
